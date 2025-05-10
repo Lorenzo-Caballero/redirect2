@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 const Redirect = () => {
     useEffect(() => {
-        window.location.href = "https://ganamos.biz/home";
+        window.location.href = "https://miaventura.online/";
     }, []);
     return null;
 };
